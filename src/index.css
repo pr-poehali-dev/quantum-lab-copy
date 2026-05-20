@@ -97,5 +97,28 @@
 
   body {
     @apply bg-background text-foreground;
+    font-family: "IBM Plex Sans", sans-serif;
   }
+}
+
+.font-ibm {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.font-mono {
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.font-golos {
+  font-family: "Golos Text", sans-serif;
+}
+
+.font-600 {
+  font-weight: 600;
+}
+.font-700 {
+  font-weight: 700;
+}
+.font-900 {
+  font-weight: 900;
 }
